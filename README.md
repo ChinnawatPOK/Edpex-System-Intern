@@ -1,5 +1,5 @@
-# Carcare-Project
-example project carcare management system
+# Edpex-Project
+example project Edpex management system
 
 ภาพตััวอย่าง Web application website “Data management Indicators EdPEx by 
        Kamphaeng Saen Campus Office” 
